@@ -14,7 +14,7 @@
     # Tab defaults (might get overwritten by an LSP server)
     tabstop = 2;
     shiftwidth = 2;
-    softtabstop = 0;
+    softtabstop = 2;
     expandtab = true;
     smarttab = true;
 
